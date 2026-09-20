@@ -8,9 +8,14 @@
 
 
 ## tinker cad circuit diagram
+<img width="1170" height="775" alt="Screenshot 2026-07-22 102142" src="https://github.com/user-attachments/assets/0052fd2d-bc6f-479c-ad8f-74a5823d848b" />
 
+<img width="1346" height="746" alt="Screenshot 2026-07-22 111730" src="https://github.com/user-attachments/assets/1eab7123-147b-410e-8792-ab7f5ec12d75" />
 ## ripple factor calculation
+<img width="1280" height="458" alt="WhatsApp Image 2026-09-20 at 12 10 10 PM" src="https://github.com/user-attachments/assets/e9c8a9df-b786-489b-9e0b-49bdd92f59d9" />
+<img width="1280" height="410" alt="WhatsApp Image 2026-09-20 at 12 10 11 PM" src="https://github.com/user-attachments/assets/5bfb2ead-06d9-4570-9cbc-7e8ab5d5fcf7" />
 
 ## output graph
-
+<img width="1428" height="1600" alt="WhatsApp Image 2026-09-09 at 9 32 58 PM" src="https://github.com/user-attachments/assets/cd44e2f4-0fbb-4b24-ba59-4e4dcde39285" />
 ## result
+<img width="1105" height="1280" alt="image" src="https://github.com/user-attachments/assets/a8df6327-09b4-421e-8ea9-04ca5cc27390" />
