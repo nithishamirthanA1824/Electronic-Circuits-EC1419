@@ -20,12 +20,16 @@
 
 
 ## LT spice circuit diagram
+<img width="1913" height="867" alt="image" src="https://github.com/user-attachments/assets/89206ab3-9183-45a8-b205-54a755bd648d" />
 
 
 ## LT spice output graph
+<img width="1918" height="898" alt="image" src="https://github.com/user-attachments/assets/25c2e04a-f7d1-48ce-8221-ab4389aead18" />
 
-## Tabulation
+
 
 ## calculation
+<img width="1280" height="1083" alt="image" src="https://github.com/user-attachments/assets/65af0350-811a-410d-8152-8bd3a907722e" />
 
 ## result
+<img width="1280" height="1121" alt="image" src="https://github.com/user-attachments/assets/bf97a841-e7ab-49b9-b490-21d0fcf55b8d" />
