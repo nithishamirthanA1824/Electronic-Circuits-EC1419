@@ -7,10 +7,11 @@
 
 
 ## Kicad circuit diagram
-<img width="1280" height="961" alt="image" src="https://github.com/user-attachments/assets/f4eec3cf-dbd9-4053-a3d8-d2abe74d3203" />
+<img width="1280" height="1103" alt="image" src="https://github.com/user-attachments/assets/3eaf2205-884e-46cb-8e4e-5b1b5ebaed4c" />
 
 ## PCB 3D view
-<img width="1280" height="1103" alt="image" src="https://github.com/user-attachments/assets/4fddde28-6c25-42fa-93da-c8b14a0507d6" />
+<img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/64dc3713-c083-4c93-918f-48b3e845be54" />
+
 
 ## result
-<img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/fc9e1adb-0740-47c3-9454-fae65e3e5a0a" />
+<img width="1280" height="961" alt="image" src="https://github.com/user-attachments/assets/2a3b772e-86b1-47b4-9822-036c6821dae3" />
