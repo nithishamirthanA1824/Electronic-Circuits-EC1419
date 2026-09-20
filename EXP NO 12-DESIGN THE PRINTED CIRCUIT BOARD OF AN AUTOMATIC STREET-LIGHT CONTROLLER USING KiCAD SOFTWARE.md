@@ -8,9 +8,12 @@
 
 
 ## Kicad circuit diagram
+<img width="1280" height="1130" alt="image" src="https://github.com/user-attachments/assets/d1d76f29-f405-4ad3-bbc2-9492413c15e5" />
 
-## PCB layout view
+
 
 ## PCB 3D view
+<img width="1280" height="951" alt="image" src="https://github.com/user-attachments/assets/5032cc5b-31f0-4912-b3c8-ffcc07c22a02" />
 
 ## result
+<img width="1280" height="1089" alt="image" src="https://github.com/user-attachments/assets/0ae2e8d0-6732-4f54-9ae7-523477f11225" />
